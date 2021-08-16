@@ -8,17 +8,20 @@
     <b>I love taking challenges and love being part of the solution.</b>
   </em> 
   </p>
-
+<br>
 
 A bit about me:
 
-- 🌱 I’m currently learning ML, DL, NLP
-- ⚡ I’m looking to collaborate on ML & DL Projects
-- 🤔 I’m looking for help with learning anything new! especially in Data Science field
+- 🌱 I’m currently learning **ML, DL, NLP**
+- ⚡ I’m looking to **collaborate** on ML & DL Projects
+- 🤔 I’m looking for help with **learning anything new in the field of Data Science**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khadija-BOUAG&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Khadija-BOUAG&show_icons=true&locale=en&theme=chartreuse-white" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
+Reach me :
 
+<a href="https://www.linkedin.com/in/khadija-bouagoun-1a7b431b8/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/khkuggle" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
