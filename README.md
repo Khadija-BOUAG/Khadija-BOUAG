@@ -4,7 +4,6 @@
   <em>
     I am Khadija , <b>a second year student</b> at <b>the National Institute of Posts and Telecommunications INPT-Rabat</b>. <br>
     a <b>passionate self-learner</b> in Data Science field <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
-     
     <b>I love taking challenges and love being part of the solution.</b>
   </em> 
   </p>
