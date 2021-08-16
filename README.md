@@ -10,7 +10,7 @@
   </p>
 <br>
 
-A bit about me:
+**A bit about me:**
 
 - 🌱 I’m currently learning **ML, DL, NLP**
 - ⚡ I’m looking to **collaborate** on ML & DL Projects
@@ -21,7 +21,8 @@ A bit about me:
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Khadija-BOUAG&show_icons=true&locale=en&theme=chartreuse-white" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-Reach me :
+<br>
+**Reach me :**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khadija-bouagoun-1a7b431b8/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
