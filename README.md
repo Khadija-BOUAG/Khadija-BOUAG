@@ -26,6 +26,7 @@
 **Reach me :**
 <br>
 <p align="center">
+  <a href = "mailto: khadijabouagoune@gmail.com"><img align="left" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khadija-bouagoun-1a7b431b8/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/khkuggle" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
   </p>
